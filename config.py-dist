@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+# Prod
+#url = "https://hooks.slack.com/services/WOWWOO/LOL/WHOAH"
+
+# Dev
+url = "https://hooks.slack.com/services/WWOOO/HAHA/OMG"

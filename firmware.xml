@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Fortinet Firmware Updates</title>
+<link>http://support.fortinet.com/</link>
+<description><![CDATA[Updates for the latest firmware and patches for Fortinet products.]]></description>
+<lastBuildDate>Thu, 20 May 2021 23:16:03 GMT</lastBuildDate>
+<item>
+<title>FortiOS 6.4.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiOS 6.4.6 B1879 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FGT_3960E, FGT_100E, FGR_60F,</li>
+<li>FGT_401E, FGT_2201E, FGT_1000D,</li>
+<li>FGT_3401E, FGT_3300E, FGT_201E,</li>
+<li>FGT_2500E, FGT_3810D, FGT_VM64_IBM,</li>
+<li>FWF_40F, FGT_VM64_VMX, FGT_VM64_ALI,</li>
+<li>FGT_VM64_AZURE, FGT_3800D, FGT_60E_POE,</li>
+<li>FGT_5001E1, FGT_200E, FGT_140E,</li>
+<li>FGT_400D, FGT_80F_BP, FOS_VM64_HV,</li>
+<li>FGT_91E, FGT_VM64_KVM, FWF_61F,</li>
+<li>FGT_100EF, FGT_601E, FGT_5001D,</li>
+<li>FGT_2000E, FGT_2200E, FGT_800D,</li>
+<li>FGT_100F, FOS_VM64_XEN, FGT_60F,</li>
+<li>FGT_600D, FGT_1101E, FGT_3301E,</li>
+<li>FGT_60E_DSL, FGT_81F, FGT_3100D,</li>
+<li>FGT_1200D, FGT_VM64_XEN, FGT_VM64,</li>
+<li>FGT_1100E, FGT_3980E, FGT_VM64_RAXONDEMAND,</li>
+<li>FGT_VM64_ALIONDEMAND, FGT_300D, FGT_80F,</li>
+<li>FGT_60E, FGT_3600E, FGT_VM64_GCP,</li>
+<li>FGT_140E_POE, FGT_VM64_OPC, FWF_60E_DSL,</li>
+<li>FGT_VM64_HV, FGT_VM64_SVM, FGT_90E,</li>
+<li>FGT_VM64_GCPONDEMAND, FGT_400E_BP, FWF_60E_DSLJ,</li>
+<li>FGT_61E, FGT_101F, FWF_60F,</li>
+<li>FGT_300E, FGT_3200D, FGT_VM64_AWS,</li>
+<li>FGT_3700D, FOS_VM64_KVM, FGT_3400E,</li>
+<li>FGT_80E_POE, FWF_61E, FGT_1500D,</li>
+<li>FGT_3000D, FWF_40F_3G4G, FGT_3815D,</li>
+<li>FGT_81E, FGR_60F_3G4G, FGT_301E,</li>
+<li>FWF_60E, FOS_VM64, FGT_101E,</li>
+<li>FGT_61F, FGT_3601E, FGT_400E,</li>
+<li>FGT_40F_3G4G, FGT_40F, FGT_500E,</li>
+<li>FGT_600E, FGT_80E, FGT_900D,</li>
+<li>FGT_5001E, FGT_1500DT, FGT_500D,</li>
+<li>FGT_501E, FGT_81E_POE, FGT_60E_DSLJ,</li>
+<li>FGT_200F, FGT_201F</li>
+</ul></p>]]></description>
+<pubDate>Thu, 20 May 2021 23:16:02 GMT</pubDate>
+<guid isPermaLink="false">Thu, 20 May 2021 23:16:02 GMT</guid>
+</item>
+<item>
+<title>FortiFone 3.0.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiFone 3.0.6 B0171 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FON_480, FON_380, FON_580</li>
+</ul></p>]]></description>
+<pubDate>Wed, 19 May 2021 22:42:23 GMT</pubDate>
+<guid isPermaLink="false">Wed, 19 May 2021 22:42:23 GMT</guid>
+</item>
+<item>
+<title>FortiPortal 6.0.4</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiPortal 6.0.4 B240 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FPC_VM64</li>
+</ul></p>]]></description>
+<pubDate>Wed, 19 May 2021 22:17:10 GMT</pubDate>
+<guid isPermaLink="false">Wed, 19 May 2021 22:17:10 GMT</guid>
+</item>
+<item>
+<title>FortiSIEMWindowsAgent 4.1.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSIEMWindowsAgent 4.1.1 B106 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 18 May 2021 18:22:26 GMT</pubDate>
+<guid isPermaLink="false">Tue, 18 May 2021 18:22:26 GMT</guid>
+</item>
+<item>
+<title>FortiAuthenticator 6.0.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAuthenticator 6.0.7 B0071 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAC_3000D, FAC_VM_HV, FAC_200D,</li>
+<li>FAC_200E, FAC_VM_XEN, FAC_VM_OPC,</li>
+<li>FAC_3000E, FAC_1000D, FAC_VM_KVM,</li>
+<li>FAC_VM, FAC_400C, FAC_400E,</li>
+<li>FAC_2000E, FAC_VM_AZURE</li>
+</ul></p>]]></description>
+<pubDate>Tue, 18 May 2021 16:53:09 GMT</pubDate>
+<guid isPermaLink="false">Tue, 18 May 2021 16:53:09 GMT</guid>
+</item>
+<item>
+<title>FortiMail 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiMail 7.0.0 B0133 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FML_VMHV, FML_VMKV, FML_VMAZ,</li>
+<li>FML_400E, FML_200E, FML_VMXE,</li>
+<li>FML_200F, FML_VMAW, FML_VMAW_ONDEMAND,</li>
+<li>FML_2000E, FML_VM, FML_VMGC,</li>
+<li>FML_VMAZ_ONDEMAND, FML_VMOC, FML_3200E,</li>
+<li>FML_400F, FML_900F, FML_3000E</li>
+</ul></p>]]></description>
+<pubDate>Mon, 17 May 2021 20:13:13 GMT</pubDate>
+<guid isPermaLink="false">Mon, 17 May 2021 20:13:13 GMT</guid>
+</item>
+<item>
+<title>FortiAnalyzer 6.2.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAnalyzer 6.2.8 B1435 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAZ_3900E, FAZ_3500F, FAZ_800F,</li>
+<li>FAZ_3000E, FAZ_3700F, FAZ_VM64_KVM,</li>
+<li>FAZ_VM64_OPC, FAZ_3500G, FAZ_1000E,</li>
+<li>FAZ_3500E, FAZ_VM64_AZURE, FAZ_1000F,</li>
+<li>FAZ_3000G, FAZ_VM64_XEN, FAZ_VM64_GCP,</li>
+<li>FAZ_3000F, FAZ_300F, FAZ_VM64_ALI,</li>
+<li>FAZ_VM64_AWS, FAZ_VM64, FAZ_VM64_HV,</li>
+<li>FAZ_400E, FAZ_VM64_AWSOnDemand, FAZ_200F,</li>
+<li>FAZ_2000E</li>
+</ul></p>]]></description>
+<pubDate>Thu, 13 May 2021 20:53:50 GMT</pubDate>
+<guid isPermaLink="false">Thu, 13 May 2021 20:53:50 GMT</guid>
+</item>
+<item>
+<title>FortiManager 6.2.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiManager 6.2.8 B1435 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FMG_3900E, FMG_300F, FMG_VM64,</li>
+<li>FMG_3700F, FMG_VM64_KVM, FMG_3000F,</li>
+<li>FMG_1000F, FMG_VM64_GCP, FMG_200F,</li>
+<li>FMG_VM64_AZURE, FMG_VM64_HV, FMG_3000G,</li>
+<li>FMG_VM64_XEN, FMG_2000E, FMG_VM64_AWSOnDemand,</li>
+<li>FMG_200D, FMG_VM64_OPC, FMG_400E,</li>
+<li>FMG_4000E, FMG_VM64_AWS, FMG_VM64_ALI,</li>
+<li>FMG_300E</li>
+</ul></p>]]></description>
+<pubDate>Thu, 13 May 2021 20:35:48 GMT</pubDate>
+<guid isPermaLink="false">Thu, 13 May 2021 20:35:48 GMT</guid>
+</item>
+<item>
+<title>FortiDDoS-F 6.1.2</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiDDoS-F 6.1.2 B0073 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FDD_KVM, FDD_200F, FDD_1500F,</li>
+<li>FDD_VMWARE</li>
+</ul></p>]]></description>
+<pubDate>Wed, 12 May 2021 20:36:34 GMT</pubDate>
+<guid isPermaLink="false">Wed, 12 May 2021 20:36:34 GMT</guid>
+</item>
+<item>
+<title>FortiVoiceUCDesktop 3.0.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiVoiceUCDesktop 3.0.7 B0125 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>Mac OS X, Windows</li>
+</ul></p>]]></description>
+<pubDate>Tue, 11 May 2021 23:28:46 GMT</pubDate>
+<guid isPermaLink="false">Tue, 11 May 2021 23:28:46 GMT</guid>
+</item>
+<item>
+<title>FortiSIEM 6.2.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSIEM 6.2.1 B0223 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Fri, 7 May 2021 22:51:09 GMT</pubDate>
+<guid isPermaLink="false">Fri, 7 May 2021 22:51:09 GMT</guid>
+</item>
+<item>
+<title>FortiAP-W2 6.2.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-W2 6.2.6 B0296 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_321E, FAP_224E, FAP_221E,</li>
+<li>FAP_231E, FAP_421E, FAP_423E,</li>
+<li>FAP_223E, FAP_222E</li>
+</ul></p>]]></description>
+<pubDate>Thu, 6 May 2021 21:54:31 GMT</pubDate>
+<guid isPermaLink="false">Thu, 6 May 2021 21:54:31 GMT</guid>
+</item>
+<item>
+<title>FortiAP-S 6.2.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-S 6.2.6 B0296 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_S221E, FAP_S422E, FAP_S223E,</li>
+<li>FAP_S423E, FAP_S421E</li>
+</ul></p>]]></description>
+<pubDate>Thu, 6 May 2021 21:50:43 GMT</pubDate>
+<guid isPermaLink="false">Thu, 6 May 2021 21:50:43 GMT</guid>
+</item>
+<item>
+<title>FortiAuthenticator 6.0.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAuthenticator 6.0.6 B0069 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAC_200D, FAC_VM_HV, FAC_VM_XEN,</li>
+<li>FAC_VM_AZURE, FAC_400E, FAC_VM_OPC,</li>
+<li>FAC_200E, FAC_2000E, FAC_1000D,</li>
+<li>FAC_3000D, FAC_3000E, FAC_VM_KVM,</li>
+<li>FAC_VM, FAC_400C</li>
+</ul></p>]]></description>
+<pubDate>Thu, 6 May 2021 17:15:09 GMT</pubDate>
+<guid isPermaLink="false">Thu, 6 May 2021 17:15:09 GMT</guid>
+</item>
+<item>
+<title>FortiWLC-SD 8.6.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiWLC-SD 8.6.1 B8617 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Wed, 5 May 2021 18:08:30 GMT</pubDate>
+<guid isPermaLink="false">Wed, 5 May 2021 18:08:30 GMT</guid>
+</item>
+<item>
+<title>FortiWLC-SD 8.5.4</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiWLC-SD 8.5.4 B8543 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Wed, 5 May 2021 17:54:03 GMT</pubDate>
+<guid isPermaLink="false">Wed, 5 May 2021 17:54:03 GMT</guid>
+</item>
+<item>
+<title>FortiSwitch 6.4.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSwitch 6.4.7 B0478 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 4 May 2021 00:33:44 GMT</pubDate>
+<guid isPermaLink="false">Tue, 4 May 2021 00:33:44 GMT</guid>
+</item>
+<item>
+<title>FortiSwitchOS 6.4.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSwitchOS 6.4.7 B0478 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FSW_148E, FSW_3032D, FSW_248E_FPOE,</li>
+<li>FSW_148F_POE, FSW_124E_FPOE, FSW_424D_FPOE,</li>
+<li>FSW_224E, FSW_448D_POE, FSW_424D,</li>
+<li>FSW_448E_POE, FSR_124D, FSW_148F,</li>
+<li>FSW_248D, FSW_1048E, FSW_448D_FPOE,</li>
+<li>FSW_424E_FIBER, FSW_124F_FPOE, FSW_124F_POE,</li>
+<li>FSW_448E, FSW_224E_POE, FSW_124E_POE,</li>
+<li>FSW_3032E, FSW_124E, FSW_1048D,</li>
+<li>FSW_426E_FPOE_MG, FSR_112D_POE, FSW_424E,</li>
+<li>FSW_148E_POE, FSW_448D, FSW_148F_FPOE,</li>
+<li>FSW_424D_POE, FSW_1024D, FSW_524D_FPOE,</li>
+<li>FSW_548D_FPOE, FSW_108E, FSW_548D,</li>
+<li>FSW_108E_POE, FSW_108E_FPOE, FSW_448E_FPOE,</li>
+<li>FSW_224D_FPOE, FSW_424E_FPOE, FSW_524D,</li>
+<li>FSW_248E_POE, FSW_124F, FSW_424E_POE</li>
+</ul></p>]]></description>
+<pubDate>Tue, 4 May 2021 00:13:56 GMT</pubDate>
+<guid isPermaLink="false">Tue, 4 May 2021 00:13:56 GMT</guid>
+</item>
+<item>
+<title>FortiOS-6K7K 6.2.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiOS-6K7K 6.2.6 B1158 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FGT_7000F, FGT_7000E, FGT_6000F</li>
+</ul></p>]]></description>
+<pubDate>Fri, 30 Apr 2021 16:38:24 GMT</pubDate>
+<guid isPermaLink="false">Fri, 30 Apr 2021 16:38:24 GMT</guid>
+</item>
+<item>
+<title>FortiAP-U 6.2.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-U 6.2.1 B0237 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_U24JEV, FAP_U423EV, FAP_U431F,</li>
+<li>FAP_U223EV, FAP_U422EV, FAP_U421EV,</li>
+<li>FAP_U221EV, FAP_U231F, FAP_U323EV,</li>
+<li>FAP_U433F, FAP_U321EV</li>
+</ul></p>]]></description>
+<pubDate>Thu, 29 Apr 2021 21:30:25 GMT</pubDate>
+<guid isPermaLink="false">Thu, 29 Apr 2021 21:30:25 GMT</guid>
+</item>
+<item>
+<title>FortiAP-U 6.2.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-U 6.2.1 B0237 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_U24JEV, FAP_U423EV, FAP_U431F,</li>
+<li>FAP_U223EV, FAP_U422EV, FAP_U421EV,</li>
+<li>FAP_U221EV, FAP_U231F, FAP_U323EV,</li>
+<li>FAP_U433F, FAP_U321EV</li>
+</ul></p>]]></description>
+<pubDate>Thu, 29 Apr 2021 21:29:56 GMT</pubDate>
+<guid isPermaLink="false">Thu, 29 Apr 2021 21:29:56 GMT</guid>
+</item>
+<item>
+<title>FortiADC 6.1.2</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiADC 6.1.2 B0128 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAD_GCP, FAD_300D, FAD_AZURE,</li>
+<li>FAD_2200F, FAD_1500D, FAD_4000F,</li>
+<li>FAD_AZURE_ONDEMAND, FAD_400F, FAD_2000F,</li>
+<li>FAD_400D, FAD_4200F, FAD_XENOPEN,</li>
+<li>FAD_700D, FAD_HYPERV, FAD_XENAWS,</li>
+<li>FAD_XENSERVER, FAD_4000D, FAD_ALI,</li>
+<li>FAD_200D, FAD_1000F, FAD_ALI_ONDEMAND,</li>
+<li>FAD_2000D, FAD_XENAWS_ONDEMAND, FAD_300F,</li>
+<li>FAD_KVM, FAD_100F, FAD_OCI,</li>
+<li>FAD_5000F, FAD_200F, FAD_GCP_ONDEMAND,</li>
+<li>FAD_220F, FAD_VM, FAD_1200F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 28 Apr 2021 19:07:40 GMT</pubDate>
+<guid isPermaLink="false">Wed, 28 Apr 2021 19:07:40 GMT</guid>
+</item>
+<item>
+<title>FortiClientEMS 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiClientEMS 7.0.0 B0042 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>Windows_x64</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 23:16:52 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 23:16:52 GMT</guid>
+</item>
+<item>
+<title>FortiClientLinux 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiClientLinux 7.0.0 B0018 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 23:14:48 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 23:14:48 GMT</guid>
+</item>
+<item>
+<title>FortiClientMac 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiClientMac 7.0.0 B0022 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>Mac OS X</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 23:13:21 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 23:13:21 GMT</guid>
+</item>
+<item>
+<title>FortiClient 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiClient 7.0.0 B0029 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>Windows, Windows_x64</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 23:10:20 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 23:10:20 GMT</guid>
+</item>
+<item>
+<title>FortiExtender 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiExtender 7.0.0 B0024 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FEXT_211E, FEXT_200F, FEXT_201E</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 22:19:22 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 22:19:22 GMT</guid>
+</item>
+<item>
+<title>FortiAP-W2 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-W2 7.0.0 B0008 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_231E, FAP_222E, FAP_221E,</li>
+<li>FAP_224E, FAP_223E</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 22:04:01 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 22:04:01 GMT</guid>
+</item>
+<item>
+<title>FortiSOAR 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSOAR 7.0.0 B480 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 01:08:03 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 01:08:03 GMT</guid>
+</item>
+<item>
+<title>FortiTester 4.2.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiTester 4.2.0 B0035 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FTS_2500E, FTS_4000E, FTS_2000D,</li>
+<li>FTS_100F, FTS_VM_AWS_BYOL, FTS_VM_KVM,</li>
+<li>FTS_VM, FTS_2000E, FTS_VM_OCI_BYOL,</li>
+<li>FTS_VM_ALI_BYOL, FTS_VM_AZURE_BYOL, FTS_VM_AWS,</li>
+<li>FTS_3000E, FTS_VM_GCP_BYOL</li>
+</ul></p>]]></description>
+<pubDate>Tue, 27 Apr 2021 00:13:56 GMT</pubDate>
+<guid isPermaLink="false">Tue, 27 Apr 2021 00:13:56 GMT</guid>
+</item>
+<item>
+<title>FortiOS 6.2.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiOS 6.2.8 B1232 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FGT_3980E, FGT_1101E, FGT_3960E,</li>
+<li>FGT_VM64_OPC, FGT_1500DT, FGT_501E,</li>
+<li>FGT_900D, FGT_2500E, FGT_600D,</li>
+<li>FGT_30E_MI, FGT_3100D, FGT_3301E,</li>
+<li>FGT_91E, FGT_80F, FGT_400E,</li>
+<li>FGT_92D, FGT_80E, FGT_80F_BP,</li>
+<li>FGT_VM64_AZURE, FGT_101E, FGT_800D,</li>
+<li>FGT_30E, FGT_100F, FGT_60F,</li>
+<li>FOS_VM64, FGR_35D, FGT_81F,</li>
+<li>FOS_VM64_HV, FWF_50E, FGT_3400E,</li>
+<li>FGT_80E_POE, FGT_100E, FGT_2200E,</li>
+<li>FGT_VM64_SVM, FGT_61E, FGT_90E,</li>
+<li>FGT_200E, FWF_30E_MI, FWF_50E_2R,</li>
+<li>FGT_3000D, FGT_3810D, FGT_VM64_KVM,</li>
+<li>FWF_61F, FGT_VM64_ALI, FGT_5001E1,</li>
+<li>FGT_3200D, FGT_400E_BP, FGT_VM64_HV,</li>
+<li>FGT_60E_POE, FGT_3600E, FWF_60E_DSL,</li>
+<li>FWF_30E, FGT_30E_MG, FGT_60E_DSL,</li>
+<li>FGT_300D, FGT_40F_3G4G, FGT_1500D,</li>
+<li>FGT_VM64_GCPONDEMAND, FWF_61E, FGT_60E,</li>
+<li>FGT_3300E, FOS_VM64_XEN, FGT_VM64_AZUREONDEMAND,</li>
+<li>FGT_100EF, FGT_52E, FGT_1100E,</li>
+<li>FGT_VM64_AWS, FWF_40F, FGT_5001D,</li>
+<li>FWF_51E, FGT_1000D, FGT_VM64_VMX,</li>
+<li>FGT_500E, FGT_30E_MN, FGT_500D,</li>
+<li>FGR_60F, FGT_401E, FGT_3601E,</li>
+<li>FGT_61F, FGT_2000E, FGT_300E,</li>
+<li>FWF_40F_3G4G, FGT_201E, FGT_100D,</li>
+<li>FGT_301E, FGT_81E, FGT_2201E,</li>
+<li>FGR_60F_3G4G, FGT_60E_DSLJ, FGT_81E_POE,</li>
+<li>FGR_30D, FGR_90D, FGT_3700D,</li>
+<li>FGT_601E, FGT_51E, FGT_40F,</li>
+<li>FGT_1200D, FGT_VM64_RAXONDEMAND, FGT_400D,</li>
+<li>FGT_600E, FGT_140D, FGT_50E,</li>
+<li>FGT_VM64_GCP, FGT_3800D, FGT_VM64,</li>
+<li>FGT_101F, FFW_3980E, FGT_140D_POE,</li>
+<li>FGT_VM64_ALIONDEMAND, FWF_60F, FGT_5001E,</li>
+<li>FGT_VM64_XEN, FGT_140E, FWF_30E_MN,</li>
+<li>FWF_60E, FGT_140E_POE, FOS_VM64_KVM,</li>
+<li>FGT_3401E, FGT_3815D, FGT_VM64_AWSONDEMAND,</li>
+<li>FWF_60E_DSLJ, FGT_201F, FGT_200F</li>
+</ul></p>]]></description>
+<pubDate>Mon, 26 Apr 2021 23:08:50 GMT</pubDate>
+<guid isPermaLink="false">Mon, 26 Apr 2021 23:08:50 GMT</guid>
+</item>
+<item>
+<title>FortiNAC 8.8.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiNAC 8.8.7 B1733 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Mon, 26 Apr 2021 22:00:08 GMT</pubDate>
+<guid isPermaLink="false">Mon, 26 Apr 2021 22:00:08 GMT</guid>
+</item>
+<item>
+<title>FortiProxy 2.0.4</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiProxy 2.0.4 B0039 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FPX_2000E, FPX_400E, FPX_KVM,</li>
+<li>FPX_AZURE, FPX_KVM_AWS, FPX_KVM_GCP,</li>
+<li>FPX_HY, FPX_KVM_OPC, FPX_VMWARE,</li>
+<li>FPX_4000E</li>
+</ul></p>]]></description>
+<pubDate>Mon, 26 Apr 2021 17:11:50 GMT</pubDate>
+<guid isPermaLink="false">Mon, 26 Apr 2021 17:11:50 GMT</guid>
+</item>
+<item>
+<title>FortiAnalyzer 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAnalyzer 7.0.0 B0047 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FAZ_1000F, FAZ_150G, FAZ_2000E,</li>
+<li>FAZ_3000F, FAZ_3000G, FAZ_300F,</li>
+<li>FAZ_300G, FAZ_3500E, FAZ_3500F,</li>
+<li>FAZ_3500G, FAZ_3700F, FAZ_3900E,</li>
+<li>FAZ_400E, FAZ_800F, FAZ_VM64,</li>
+<li>FAZ_VM64, FAZ_VM64, FAZ_VM64_AWS,</li>
+<li>FAZ_VM64_AWS, FAZ_VM64_AZURE, FAZ_VM64_GCP,</li>
+<li>FAZ_VM64_GCP, FAZ_VM64_GCP, FAZ_VM64_HV,</li>
+<li>FAZ_VM64_HV, FAZ_VM64_HV, FAZ_VM64_KVM,</li>
+<li>FAZ_VM64_KVM, FAZ_VM64_KVM, FAZ_VM64_OPC,</li>
+<li>FAZ_VM64_OPC, FAZ_VM64_XEN, FAZ_VM64_XEN,</li>
+<li>FAZ_VM64_XEN, FAZ_VM64_XEN</li>
+</ul></p>]]></description>
+<pubDate>Fri, 23 Apr 2021 03:57:54 GMT</pubDate>
+<guid isPermaLink="false">Fri, 23 Apr 2021 03:57:54 GMT</guid>
+</item>
+<item>
+<title>FortiManager 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiManager 7.0.0 B0047 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FMG_1000F, FMG_2000E, FMG_200F,</li>
+<li>FMG_200G, FMG_3000F, FMG_3000G,</li>
+<li>FMG_300F, FMG_3700F, FMG_3900E,</li>
+<li>FMG_400E, FMG_VM64, FMG_VM64,</li>
+<li>FMG_VM64, FMG_VM64_AWS, FMG_VM64_AWS,</li>
+<li>FMG_VM64_AZURE, FMG_VM64_GCP, FMG_VM64_GCP,</li>
+<li>FMG_VM64_GCP, FMG_VM64_HV, FMG_VM64_HV,</li>
+<li>FMG_VM64_HV, FMG_VM64_KVM, FMG_VM64_KVM,</li>
+<li>FMG_VM64_KVM, FMG_VM64_OPC, FMG_VM64_OPC,</li>
+<li>FMG_VM64_XEN, FMG_VM64_XEN, FMG_VM64_XEN,</li>
+<li>FMG_VM64_XEN</li>
+</ul></p>]]></description>
+<pubDate>Fri, 23 Apr 2021 03:44:35 GMT</pubDate>
+<guid isPermaLink="false">Fri, 23 Apr 2021 03:44:35 GMT</guid>
+</item>
+<item>
+<title>FortiAuthenticator 6.3.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAuthenticator 6.3.0 B0670 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAC_400C, FAC_VM_KVM, FAC_VM,</li>
+<li>FAC_VM_OPC, FAC_200D, FAC_VM_AZURE,</li>
+<li>FAC_1000D, FAC_200E, FAC_3000E,</li>
+<li>FAC_800F, FAC_300F, FAC_VM_HV,</li>
+<li>FAC_2000E, FAC_400E, FAC_VM_XEN,</li>
+<li>FAC_3000D</li>
+</ul></p>]]></description>
+<pubDate>Fri, 23 Apr 2021 00:32:54 GMT</pubDate>
+<guid isPermaLink="false">Fri, 23 Apr 2021 00:32:54 GMT</guid>
+</item>
+<item>
+<title>FortiSwitchATCA 5.2.11</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSwitchATCA 5.2.11 B0191 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FT_5103B, FT_5903C, FT_5913C</li>
+</ul></p>]]></description>
+<pubDate>Thu, 22 Apr 2021 10:27:37 GMT</pubDate>
+<guid isPermaLink="false">Thu, 22 Apr 2021 10:27:37 GMT</guid>
+</item>
+<item>
+<title>FortiWAN 4.5.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiWAN 4.5.8 B0342 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FWN1KB, FWN2HB, FWN3KB,</li>
+<li>FWNV64, FWNV64</li>
+</ul></p>]]></description>
+<pubDate>Wed, 21 Apr 2021 11:51:18 GMT</pubDate>
+<guid isPermaLink="false">Wed, 21 Apr 2021 11:51:18 GMT</guid>
+</item>
+<item>
+<title>FortiIsolator 2.3.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiIsolator 2.3.0 B0273 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FIS_1000F, FIS_3000F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 21 Apr 2021 11:50:12 GMT</pubDate>
+<guid isPermaLink="false">Wed, 21 Apr 2021 11:50:12 GMT</guid>
+</item>
+<item>
+<title>FortiWLM 8.6.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiWLM 8.6.1 B8605 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Wed, 21 Apr 2021 04:24:17 GMT</pubDate>
+<guid isPermaLink="false">Wed, 21 Apr 2021 04:24:17 GMT</guid>
+</item>
+<item>
+<title>FortiAP 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP 7.0.0 B0010 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FAP_231F, FAP_234F, FAP_23JF,</li>
+<li>FAP_431F, FAP_432F, FAP_433F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 21 Apr 2021 00:08:33 GMT</pubDate>
+<guid isPermaLink="false">Wed, 21 Apr 2021 00:08:33 GMT</guid>
+</item>
+<item>
+<title>FortiAI 1.5.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAI 1.5.0 B0099 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FAI_3500F, FAI_VM, FAI_VM,</li>
+<li>FAI_VMKV, FAI_VMKV</li>
+</ul></p>]]></description>
+<pubDate>Tue, 20 Apr 2021 23:37:26 GMT</pubDate>
+<guid isPermaLink="false">Tue, 20 Apr 2021 23:37:26 GMT</guid>
+</item>
+<item>
+<title>FortiSandbox 4.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSandbox 4.0.0 B0040 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FSA_1000F, FSA_2000E, FSA_3000E,</li>
+<li>FSA_3000F, FSA_500F, FSA_AWS,</li>
+<li>FSA_AZURE, FSA_HYPERV, FSA_HYPERV,</li>
+<li>FSA_KVM, FSA_KVM, FSA_VM,</li>
+<li>FSA_VM, FSA_VM</li>
+</ul></p>]]></description>
+<pubDate>Tue, 20 Apr 2021 07:10:17 GMT</pubDate>
+<guid isPermaLink="false">Tue, 20 Apr 2021 07:10:17 GMT</guid>
+</item>
+<item>
+<title>FortiConverter 6.2.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiConverter 6.2.0 B0184 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Sat, 17 Apr 2021 11:51:30 GMT</pubDate>
+<guid isPermaLink="false">Sat, 17 Apr 2021 11:51:30 GMT</guid>
+</item>
+<item>
+<title>FortiSwitch 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSwitch 7.0.0 B0022 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FSR_112D_POE, FSR_124D, FSW_1024D,</li>
+<li>FSW_1048D, FSW_1048E, FSW_108E,</li>
+<li>FSW_108E_FPOE, FSW_108E_POE, FSW_124E,</li>
+<li>FSW_124E_FPOE, FSW_124E_POE, FSW_124F,</li>
+<li>FSW_124F_FPOE, FSW_124F_POE, FSW_148E,</li>
+<li>FSW_148E_POE, FSW_148F, FSW_148F_FPOE,</li>
+<li>FSW_148F_POE, FSW_224D_FPOE, FSW_224E,</li>
+<li>FSW_224E_POE, FSW_248D, FSW_248E_FPOE,</li>
+<li>FSW_248E_POE, FSW_3032D, FSW_3032E,</li>
+<li>FSW_424D, FSW_424D_FPOE, FSW_424D_POE,</li>
+<li>FSW_424E, FSW_424E_FIBER, FSW_424E_FPOE,</li>
+<li>FSW_424E_POE, FSW_426E_FPOE_MG, FSW_448D,</li>
+<li>FSW_448D_FPOE, FSW_448D_POE, FSW_448E,</li>
+<li>FSW_448E_FPOE, FSW_448E_POE, FSW_524D,</li>
+<li>FSW_524D_FPOE, FSW_548D, FSW_548D_FPOE</li>
+</ul></p>]]></description>
+<pubDate>Fri, 16 Apr 2021 07:11:48 GMT</pubDate>
+<guid isPermaLink="false">Fri, 16 Apr 2021 07:11:48 GMT</guid>
+</item>
+<item>
+<title>FortiVoiceEnterprise 6.4.2</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiVoiceEnterprise 6.4.2 B0380 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>
+<p>This concerns the following models:<ul>
+<li>FVE_20E, FVE_50E, FVE_100E,</li>
+<li>FVE_200F, FVE_300E, FVE_500E,</li>
+<li>FVE_500F, FVE_1000E, FVE_2000E,</li>
+<li>FVE_2000F, FVE_3000E, FVE_5000F,</li>
+<li>FVE_VM, FVE_VM, FVE_VMAW,</li>
+<li>FVE_VMAW, FVE_VMAZ, FVE_VMAZ,</li>
+<li>FVE_VMHV, FVE_VMHV, FVE_VMKV,</li>
+<li>FVE_VMKV, FVE_VMXE, FVE_VMXE,</li>
+<li>FVG_GO08, FVG_GS16, FVG_GT,</li>
+<li>FVE_VMGC, FVE_VMGC</li>
+</ul></p>]]></description>
+<pubDate>Thu, 15 Apr 2021 07:57:04 GMT</pubDate>
+<guid isPermaLink="false">Thu, 15 Apr 2021 07:57:04 GMT</guid>
+</item>
+<item>
+<title>FortiNAC 8.8.6</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiNAC 8.8.6 B1732 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Fri, 9 Apr 2021 02:08:22 GMT</pubDate>
+<guid isPermaLink="false">Fri, 9 Apr 2021 02:08:22 GMT</guid>
+</item>
+<item>
+<title>FortiInsightMacAgent 6.2.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiInsightMacAgent 6.2.0 B0003 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Fri, 9 Apr 2021 01:22:17 GMT</pubDate>
+<guid isPermaLink="false">Fri, 9 Apr 2021 01:22:17 GMT</guid>
+</item>
+<item>
+<title>FortiADC 5.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiADC 5.4.5 B0754 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAD_HYPERV, FAD_4000D, FAD_300F,</li>
+<li>FAD_GCP, FAD_ALI_ONDEMAND, FAD_AZURE,</li>
+<li>FAD_1500D, FAD_XENSERVER, FAD_5000F,</li>
+<li>FAD_AZURE_ONDEMAND, FAD_GCP_ONDEMAND, FAD_1000F,</li>
+<li>FAD_XENAWS, FAD_2000F, FAD_VM,</li>
+<li>FAD_XENOPEN, FAD_700D, FAD_KVM,</li>
+<li>FAD_200D, FAD_400D, FAD_OCI,</li>
+<li>FAD_4000F, FAD_2000D, FAD_ALI,</li>
+<li>FAD_300D, FAD_400F, FAD_100F,</li>
+<li>FAD_200F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 7 Apr 2021 16:57:39 GMT</pubDate>
+<guid isPermaLink="false">Wed, 7 Apr 2021 16:57:39 GMT</guid>
+</item>
+<item>
+<title>FortiInsight 6.6.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiInsight 6.6.0 B0203 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 6 Apr 2021 00:00:35 GMT</pubDate>
+<guid isPermaLink="false">Tue, 6 Apr 2021 00:00:35 GMT</guid>
+</item>
+<item>
+<title>FortiWeb 6.3.11</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiWeb 6.3.11 B1143 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FWB_AZURE_ONDEMAND, FWB_XENSERVER, FWB_600D,</li>
+<li>FWB_600E, FWB_3010E, FWB_VM,</li>
+<li>FWB_VM_PAYG, FWB_4000E, FWB_4000D,</li>
+<li>FWB_3000DFSX, FWB_XENAWS, FWB_KVM,</li>
+<li>FWB_OCI, FWB_100E, FWB_100D,</li>
+<li>FWB_1000E, FWB_ALI, FWB_GCP,</li>
+<li>FWB_400C, FWB_XENAWS_ONDEMAND, FWB_400D,</li>
+<li>FWB_DOCKER, FWB_1000D, FWB_HYPERV,</li>
+<li>FWB_2000E, FWB_3000D, FWB_VBOX,</li>
+<li>FWB_400E, FWB_3000E, FWB_XENOPEN,</li>
+<li>FWB_AZURE, FWB_KVM_PAYG</li>
+</ul></p>]]></description>
+<pubDate>Fri, 2 Apr 2021 05:02:55 GMT</pubDate>
+<guid isPermaLink="false">Fri, 2 Apr 2021 05:02:55 GMT</guid>
+</item>
+<item>
+<title>FortiDeceptor 3.3.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiDeceptor 3.3.0 B0151 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FDC_VM, FDC_1000F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 31 Mar 2021 22:54:16 GMT</pubDate>
+<guid isPermaLink="false">Wed, 31 Mar 2021 22:54:16 GMT</guid>
+</item>
+<item>
+<title>FortiADCManager 6.1.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiADCManager 6.1.0 B0023 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FADCManager</li>
+</ul></p>]]></description>
+<pubDate>Wed, 31 Mar 2021 17:09:36 GMT</pubDate>
+<guid isPermaLink="false">Wed, 31 Mar 2021 17:09:36 GMT</guid>
+</item>
+<item>
+<title>FortiOS 7.0.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiOS 7.0.0 B0066 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FGT_100EF, FGT_601E, FGT_500E,</li>
+<li>FGT_600E, FGT_1500DT, FWF_40F_3G4G,</li>
+<li>FGT_101F, FGT_60E_DSL, FGT_3301E,</li>
+<li>FGT_VM64_KVM, FGT_140E, FGT_VM64,</li>
+<li>FOS_VM64_HV, FWF_61F, FGT_VM64_XEN,</li>
+<li>FGT_5001E1, FGT_501E, FGT_401E,</li>
+<li>FGR_60F, FGT_2200E, FWF_60E_DSL,</li>
+<li>FGT_60F, FGT_40F, FGT_1200D,</li>
+<li>FGT_60E, FWF_40F, FGT_1100E,</li>
+<li>FWF_60E, FGT_5001E, FGT_3980E,</li>
+<li>FGT_VM64_VMX, FWF_60E_DSLJ, FGT_140E_POE,</li>
+<li>FGT_91E, FGT_60E_POE, FGT_VM64_ALI,</li>
+<li>FGT_3800D, FGT_VM64_AWS, FGT_VM64_RAXONDEMAND,</li>
+<li>FGT_61E, FGT_1000D, FGT_101E,</li>
+<li>FGT_60E_DSLJ, FGT_3601E, FGT_81E_POE,</li>
+<li>FGT_301E, FGT_3401E, FGT_VM64_AZURE,</li>
+<li>FGT_3100D, FOS_VM64, FGT_800D,</li>
+<li>FGT_100E, FGT_90E, FGT_100F,</li>
+<li>FGT_VM64_OPC, FWF_60F, FGT_3300E,</li>
+<li>FGT_1101E, FGT_81E, FGT_3960E,</li>
+<li>FGT_400E, FGT_201E, FGT_3600E,</li>
+<li>FGT_2201E, FGT_VM64_GCP, FGT_80E_POE,</li>
+<li>FGT_VM64_HV, FGT_200E, FGT_3700D,</li>
+<li>FGT_40F_3G4G, FGT_61F, FGT_80E,</li>
+<li>FGT_3000D, FGT_VM64_SVM, FGT_3400E,</li>
+<li>FGR_60F_3G4G, FOS_VM64_XEN, FGT_3200D,</li>
+<li>FGT_1500D, FGT_VM64_IBM, FWF_61E,</li>
+<li>FGT_2000E, FGT_300E, FGT_2500E,</li>
+<li>FGT_900D, FOS_VM64_KVM</li>
+</ul></p>]]></description>
+<pubDate>Tue, 30 Mar 2021 23:22:23 GMT</pubDate>
+<guid isPermaLink="false">Tue, 30 Mar 2021 23:22:23 GMT</guid>
+</item>
+<item>
+<title>FortiRecorder 6.0.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiRecorder 6.0.8 B0152 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FRC_VMHV, FRC_VM, FRC_VMAW_ONDEMAND,</li>
+<li>FRC_400F, FRC_100D, FRC_VMKI,</li>
+<li>FRC_200D, FRC_VMKV, FRC_400D,</li>
+<li>FRC_VMXE</li>
+</ul></p>]]></description>
+<pubDate>Mon, 29 Mar 2021 20:05:00 GMT</pubDate>
+<guid isPermaLink="false">Mon, 29 Mar 2021 20:05:00 GMT</guid>
+</item>
+<item>
+<title>FortiProxy 1.2.11</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiProxy 1.2.11 B0321 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FPX_VMWARE, FPX_HY, FPX_KVM_GCP,</li>
+<li>FPX_AZURE, FPX_400E, FPX_KVM,</li>
+<li>FPX_4000E, FPX_KVM_AWS, FPX_2000E,</li>
+<li>FPX_KVM_OPC</li>
+</ul></p>]]></description>
+<pubDate>Sun, 28 Mar 2021 23:39:52 GMT</pubDate>
+<guid isPermaLink="false">Sun, 28 Mar 2021 23:39:52 GMT</guid>
+</item>
+<item>
+<title>FortiMail 6.0.11</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiMail 6.0.11 B0180 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FML_VMAW, FML_3200E, FML_VMXE,</li>
+<li>FML_VM, FML_200D, FML_2000E,</li>
+<li>FML_900F, FML_VMAZ, FML_VMKV,</li>
+<li>FML_1000D, FML_VMAW_ONDEMAND, FML_3000E,</li>
+<li>FML_400E, FML_3000D, FML_200F,</li>
+<li>FML_VMHV, FML_VMAZ_ONDEMAND, FML_60D,</li>
+<li>FML_200E, FML_400F</li>
+</ul></p>]]></description>
+<pubDate>Thu, 25 Mar 2021 17:04:04 GMT</pubDate>
+<guid isPermaLink="false">Thu, 25 Mar 2021 17:04:04 GMT</guid>
+</item>
+<item>
+<title>FortiVoiceEnterprise 6.4.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiVoiceEnterprise 6.4.1 B0376 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FVE_50E, FVE_1000E, FVE_200F,</li>
+<li>FVE_100E, FVE_VMGC, FVG_GT,</li>
+<li>FVE_VMAZ, FVE_VM, FVE_20E,</li>
+<li>FVG_GS16, FVE_VMHV, FVE_2000E,</li>
+<li>FVG_GO08, FVE_VMAW, FVE_VMXE,</li>
+<li>FVE_VMKV, FVE_2000F, FVE_500F,</li>
+<li>FVE_500E, FVE_300E, FVE_3000E,</li>
+<li>FVE_5000F</li>
+</ul></p>]]></description>
+<pubDate>Wed, 24 Mar 2021 21:27:12 GMT</pubDate>
+<guid isPermaLink="false">Wed, 24 Mar 2021 21:27:12 GMT</guid>
+</item>
+<item>
+<title>FortiSIEMWindowsAgent 4.1.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSIEMWindowsAgent 4.1.0 B105 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 23 Mar 2021 21:27:53 GMT</pubDate>
+<guid isPermaLink="false">Tue, 23 Mar 2021 21:27:53 GMT</guid>
+</item>
+<item>
+<title>FortiSIEM 6.2.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSIEM 6.2.0 B219 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Tue, 23 Mar 2021 02:22:03 GMT</pubDate>
+<guid isPermaLink="false">Tue, 23 Mar 2021 02:22:03 GMT</guid>
+</item>
+<item>
+<title>FortiProxy 2.0.3</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiProxy 2.0.3 B0032 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FPX_KVM, FPX_KVM_AWS, FPX_2000E,</li>
+<li>FPX_4000E, FPX_AZURE, FPX_HY,</li>
+<li>FPX_KVM_GCP, FPX_VMWARE, FPX_400E,</li>
+<li>FPX_KVM_OPC</li>
+</ul></p>]]></description>
+<pubDate>Mon, 22 Mar 2021 21:44:40 GMT</pubDate>
+<guid isPermaLink="false">Mon, 22 Mar 2021 21:44:40 GMT</guid>
+</item>
+<item>
+<title>FortiSwitch 6.2.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiSwitch 6.2.7 B0228 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FSW_524D, FSW_124E, FSW_1048D,</li>
+<li>FSW_124E_POE, FSW_1048E, FSW_248E_POE,</li>
+<li>FSW_424D, FSW_424D_POE, FSW_448D_POE,</li>
+<li>FSW_548D_FPOE, FSR_124D, FSW_548D,</li>
+<li>FSW_524D_FPOE, FSW_224E, FSW_108E_FPOE,</li>
+<li>FSW_248D, FSW_224E_POE, FSW_248E_FPOE,</li>
+<li>FSR_112D_POE, FSW_1024D, FSW_148E,</li>
+<li>FSW_148E_POE, FSW_124E_FPOE, FSW_108E_POE,</li>
+<li>FSW_448D, FSW_448D_FPOE, FSW_108E,</li>
+<li>FSW_3032D, FSW_224D_FPOE, FSW_3032E,</li>
+<li>FSW_424D_FPOE</li>
+</ul></p>]]></description>
+<pubDate>Thu, 18 Mar 2021 22:21:36 GMT</pubDate>
+<guid isPermaLink="false">Thu, 18 Mar 2021 22:21:36 GMT</guid>
+</item>
+<item>
+<title>FortiNAC 9.1.0</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiNAC 9.1.0 B111 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p>]]></description>
+<pubDate>Wed, 10 Mar 2021 01:19:52 GMT</pubDate>
+<guid isPermaLink="false">Wed, 10 Mar 2021 01:19:52 GMT</guid>
+</item>
+<item>
+<title>FortiAP-W2 6.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-W2 6.4.5 B0460 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_423E, FAP_223E, FAP_221E,</li>
+<li>FAP_231E, FAP_222E, FAP_321E,</li>
+<li>FAP_421E, FAP_224E</li>
+</ul></p>]]></description>
+<pubDate>Tue, 9 Mar 2021 22:16:53 GMT</pubDate>
+<guid isPermaLink="false">Tue, 9 Mar 2021 22:16:53 GMT</guid>
+</item>
+<item>
+<title>FortiAP-S 6.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP-S 6.4.5 B0460 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_S421E, FAP_S423E, FAP_S223E,</li>
+<li>FAP_S422E, FAP_S221E</li>
+</ul></p>]]></description>
+<pubDate>Tue, 9 Mar 2021 21:55:01 GMT</pubDate>
+<guid isPermaLink="false">Tue, 9 Mar 2021 21:55:01 GMT</guid>
+</item>
+<item>
+<title>FortiDDoS 5.4.2</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiDDoS 5.4.2 B0259 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FDD_600B, FDD_2000B, FDD_400B,</li>
+<li>FDD_CM_KVM, FDD_CM_HYPERV, FDD_CM_VMWARE,</li>
+<li>FDD_2000E, FDD_CM_XENSERVER, FDD_CM_XENOPEN,</li>
+<li>FDD_1200B, FDD_1000B, FDD_800B,</li>
+<li>FDD_200B, FDD_1500E, FDD_900B</li>
+</ul></p>]]></description>
+<pubDate>Sat, 6 Mar 2021 01:39:15 GMT</pubDate>
+<guid isPermaLink="false">Sat, 6 Mar 2021 01:39:15 GMT</guid>
+</item>
+<item>
+<title>FortiRecorder 6.0.7</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiRecorder 6.0.7 B0149 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FRC_VMAW_ONDEMAND, FRC_VMKI, FRC_200D,</li>
+<li>FRC_VMHV, FRC_VM, FRC_VMXE,</li>
+<li>FRC_400D, FRC_VMKV, FRC_400F,</li>
+<li>FRC_100D</li>
+</ul></p>]]></description>
+<pubDate>Fri, 5 Mar 2021 21:21:25 GMT</pubDate>
+<guid isPermaLink="false">Fri, 5 Mar 2021 21:21:25 GMT</guid>
+</item>
+<item>
+<title>FortiADC 6.1.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiADC 6.1.1 B0119 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAD_1000F</li>
+</ul></p>]]></description>
+<pubDate>Thu, 4 Mar 2021 20:56:16 GMT</pubDate>
+<guid isPermaLink="false">Thu, 4 Mar 2021 20:56:16 GMT</guid>
+</item>
+<item>
+<title>FortiAP 6.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAP 6.4.5 B0172 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAP_23JF, FAP_231F, FAP_431F,</li>
+<li>FAP_433F, FAP_432F, FAP_234F</li>
+</ul></p>]]></description>
+<pubDate>Thu, 4 Mar 2021 19:56:58 GMT</pubDate>
+<guid isPermaLink="false">Thu, 4 Mar 2021 19:56:58 GMT</guid>
+</item>
+<item>
+<title>FortiPortal 6.0.3</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiPortal 6.0.3 B0189 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FPC_VM64</li>
+</ul></p>]]></description>
+<pubDate>Wed, 24 Feb 2021 23:00:17 GMT</pubDate>
+<guid isPermaLink="false">Wed, 24 Feb 2021 23:00:17 GMT</guid>
+</item>
+<item>
+<title>FortiVoiceEnterprise 6.0.8</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiVoiceEnterprise 6.0.8 B0260 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FVE_VMAZ, FVE_200D, FVE_3000E,</li>
+<li>FVE_VMXE, FVG_GO08, FVE_VMHV,</li>
+<li>FVE_VMKV, FVG_GS16, FVE_200F,</li>
+<li>FVE_VMAW, FVE_300E, FVG_GT,</li>
+<li>FVE_1000E, FVE_100E, FVE_20E,</li>
+<li>FVE_500F, FVE_5000F, FVE_2000F,</li>
+<li>FVE_500E, FVE_50E, FVE_2000E,</li>
+<li>FVE_VM</li>
+</ul></p>]]></description>
+<pubDate>Wed, 24 Feb 2021 00:01:38 GMT</pubDate>
+<guid isPermaLink="false">Wed, 24 Feb 2021 00:01:38 GMT</guid>
+</item>
+<item>
+<title>FortiManager 6.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiManager 6.4.5 B2288 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FMG_300F, FMG_3900E, FMG_300E,</li>
+<li>FMG_VM64, FMG_VM64_ALI, FMG_4000E,</li>
+<li>FMG_VM64_AWSOnDemand, FMG_VM64_KVM, FMG_3000F,</li>
+<li>FMG_1000F, FMG_VM64_AZURE, FMG_400E,</li>
+<li>FMG_VM64_HV, FMG_2000E, FMG_3700F,</li>
+<li>FMG_VM64_AWS, FMG_3000G, FMG_VM64_OPC,</li>
+<li>FMG_VM64_XEN, FMG_200F, FMG_VM64_GCP</li>
+</ul></p>]]></description>
+<pubDate>Mon, 22 Feb 2021 23:29:02 GMT</pubDate>
+<guid isPermaLink="false">Mon, 22 Feb 2021 23:29:02 GMT</guid>
+</item>
+<item>
+<title>FortiAnalyzer 6.4.5</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiAnalyzer 6.4.5 B2288 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FAZ_2000E, FAZ_VM64_ALI, FAZ_VM64_XEN,</li>
+<li>FAZ_3000F, FAZ_3700F, FAZ_3000E,</li>
+<li>FAZ_VM64_OPC, FAZ_3500G, FAZ_300F,</li>
+<li>FAZ_200F, FAZ_1000E, FAZ_1000F,</li>
+<li>FAZ_VM64_KVM, FAZ_800F, FAZ_400E,</li>
+<li>FAZ_3500E, FAZ_3500F, FAZ_VM64_HV,</li>
+<li>FAZ_VM64, FAZ_VM64_AWSOnDemand, FAZ_VM64_GCP,</li>
+<li>FAZ_3900E, FAZ_3000G, FAZ_VM64_AZURE,</li>
+<li>FAZ_VM64_AWS</li>
+</ul></p>]]></description>
+<pubDate>Mon, 22 Feb 2021 22:50:39 GMT</pubDate>
+<guid isPermaLink="false">Mon, 22 Feb 2021 22:50:39 GMT</guid>
+</item>
+<item>
+<title>FortiDDoS-F 6.1.1</title>
+<link>https://support.fortinet.com/EndUser/FirmwareImages.aspx</link>
+<description><![CDATA[<p>FortiDDoS-F 6.1.1 B0068 and release notes are available for download from the Support site : <a href="https://support.fortinet.com/EndUser/FirmwareImages.aspx">https://support.fortinet.com</a></p><p>This concerns the following models:<ul>
+<li>FDD_1500F, FDD_VMWARE, FDD_200F</li>
+</ul></p>]]></description>
+<pubDate>Sat, 20 Feb 2021 01:17:46 GMT</pubDate>
+<guid isPermaLink="false">Sat, 20 Feb 2021 01:17:46 GMT</guid>
+</item>
+</channel>
+</rss>
