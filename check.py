@@ -39,7 +39,7 @@ for entry in d.entries:
         sys.exit()
 
     # If entry date is newer than an hour... (prod = <, debug = >)
-    if past_day < published_dt:
+    if past_hour < published_dt:
         message = f"{mo.group(1)} was posted at {entry.published}\n\n{entry.link}"
         response = webhook.send(text=message)
         print(f"Status: {response.status_code}")
