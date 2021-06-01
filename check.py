@@ -15,10 +15,10 @@ webhook = WebhookClient(cfg.url)
 feed = 'https://pub.kb.fortinet.com/rss/firmware.xml'
 
 # For RSS entry filtering
-past_hour = datetime.now() - timedelta(hours = 1)
-past_day = datetime.now() - timedelta(days = 1)
-past_week = datetime.now() - timedelta(days = 7)
-past_month = datetime.now() - timedelta(days = 30)
+past_hour = datetime.utcnow() - timedelta(hours = 1)
+past_day = datetime.utcnow() - timedelta(days = 1)
+past_week = datetime.utcnow() - timedelta(days = 7)
+past_month = datetime.utcnow() - timedelta(days = 30)
 
 d = feedparser.parse(feed)
 
